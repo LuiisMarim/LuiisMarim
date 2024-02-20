@@ -15,8 +15,7 @@
   <img align="center" alt="ass" src=	"https://img.shields.io/badge/AssemblyScript-007AAC.svg?style=for-the-badge&logo=AssemblyScript&logoColor=white"/>
   <img align="center" alt="swift" src=	"https://img.shields.io/badge/Swift-F05138.svg?style=for-the-badge&logo=Swift&logoColor=white"/>
   <img align="center" alt="kot" src=	"https://img.shields.io/badge/Kotlin-7F52FF.svg?style=for-the-badge&logo=Kotlin&logoColor=white"/>
-  <img align="center" alt="kot" src=	"https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  
+  <img align="center" alt="c++" src=	"https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>  
 </div> 
 
 ### Tecnologias Utilizadas. 🤖
