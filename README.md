@@ -6,7 +6,7 @@
 
 ![LuiisMarim GitHub stats](https://github-readme-stats.vercel.app/api?username=LuiisMarim&show_icons=true&theme=onedark)
 
-### Tenho experiência em: 💡
+### Experiência em: 💡
 <div style="display: inline-block"><br/>
   <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
