@@ -20,5 +20,5 @@
 ### Tecnologias Utilizadas. 🤖
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuiisMarim&layout=compact)
 
--- No quarto semestredo curso de Ciência da Computação na FEI, estou totalmente imerso no mundo da tecnologia. Minha paixão por encontrar soluções criativas e revolucionárias é o que me motiva todos os dias. Cada linha de código que escrevo é uma oportunidade para fazer algo incrível acontecer. Estou pronto para enfrentar desafios e fazer minha marca no mundo da tecnologia! Em busca de um estágio. 1️⃣0️⃣0️⃣1️⃣
+ No quarto semestredo curso de Ciência da Computação na FEI, estou totalmente imerso no mundo da tecnologia. Minha paixão por encontrar soluções criativas e revolucionárias é o que me motiva todos os dias. Cada linha de código que escrevo é uma oportunidade para fazer algo incrível acontecer. Estou pronto para enfrentar desafios e fazer minha marca no mundo da tecnologia! Em busca de um estágio. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="25" height="25" />
 
