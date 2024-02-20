@@ -15,16 +15,10 @@
   <img align="center" alt="ass" src=	"https://img.shields.io/badge/AssemblyScript-007AAC.svg?style=for-the-badge&logo=AssemblyScript&logoColor=white"/>
   <img align="center" alt="swift" src=	"https://img.shields.io/badge/Swift-F05138.svg?style=for-the-badge&logo=Swift&logoColor=white"/>
   <img align="center" alt="kot" src=	"https://img.shields.io/badge/Kotlin-7F52FF.svg?style=for-the-badge&logo=Kotlin&logoColor=white"/>
-  
-  
 </div> 
 
-
-
-
-
 ### Tecnologias Utilizadas. 🤖
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuiisMarim&layout=compact)
 
+-- No quarto semestredo curso de Ciência da Computação na FEI, estou totalmente imerso no mundo da tecnologia. Minha paixão por encontrar soluções criativas e revolucionárias é o que me motiva todos os dias. Cada linha de código que escrevo é uma oportunidade para fazer algo incrível acontecer. Estou pronto para enfrentar desafios e fazer minha marca no mundo da tecnologia! Em busca de um estágio. 1️⃣0️⃣0️⃣1️⃣
 
