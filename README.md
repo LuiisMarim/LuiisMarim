@@ -1,16 +1,30 @@
-### Hi there 👋
+### E aí! Luis aqui, pronto para começarmos. 👋🏻
 
-<!--
-**LuiisMarim/LuiisMarim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luisaugustomarim@gmail.com)
+[![Contato](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511969844276)
+[![Projeto DACC](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/daccfei/)
 
-Here are some ideas to get you started:
+![LuiisMarim GitHub stats](https://github-readme-stats.vercel.app/api?username=LuiisMarim&show_icons=true&theme=onedark)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tenho experiência em: 💡
+<div style="display: inline-block"><br/>
+  <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img align="center" alt="c" src=	"https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img align="center" alt="postgree" src=	"https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img align="center" alt="ass" src=	"https://img.shields.io/badge/AssemblyScript-007AAC.svg?style=for-the-badge&logo=AssemblyScript&logoColor=white"/>
+  <img align="center" alt="swift" src=	"https://img.shields.io/badge/Swift-F05138.svg?style=for-the-badge&logo=Swift&logoColor=white"/>
+  <img align="center" alt="kot" src=	"https://img.shields.io/badge/Kotlin-7F52FF.svg?style=for-the-badge&logo=Kotlin&logoColor=white"/>
+  
+  
+</div> 
+
+
+
+
+
+### Tecnologias Utilizadas. 🤖
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuiisMarim&layout=compact)
+
+
