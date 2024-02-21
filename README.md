@@ -12,6 +12,12 @@
 
   - 🔎 Em busca da minha primeira oportunidade profissional.<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="25" height="25" />
 
+  ## Portifólio 
+ - [C - Sistema acadêmico de registro](https://github.com/LuiisMarim/ProjetoNotas_C)
+ - [Java/PostgreeSQL - Sistema de banco fictício](https://github.com/LuiisMarim/ProjetoLionBank_POO)
+ - [Python - Cálculos e simulações relacionadas a conceitos da mecânica quântica.](https://github.com/LuiisMarim/CalculosMecanincaQuantica)
+
+
 ![LuiisMarim GitHub stats](https://github-readme-stats.vercel.app/api?username=LuiisMarim&show_icons=true&theme=transparent)
 
 ## Experiência em. 💡
