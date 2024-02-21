@@ -31,6 +31,9 @@
   <img align="center" alt="kot" src=	"https://img.shields.io/badge/Kotlin-7F52FF.svg?style=for-the-badge&logo=Kotlin&logoColor=white"/>
   <img align="center" alt="script" src=	"https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img align="center" alt="ass" src=	"https://img.shields.io/badge/_-ASM-6E4C13.svg?style=for-the-badge"/>
+  <img align="center" alt="react" src=	"https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+
+  
   
 </div> 
 
