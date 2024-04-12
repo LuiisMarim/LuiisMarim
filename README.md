@@ -15,7 +15,7 @@
   ## Portifólio:
  - [C - Sistema acadêmico de registro](https://github.com/LuiisMarim/ProjetoNotas_C)
  - [Java/PostgreeSQL - Sistema de banco fictício](https://github.com/LuiisMarim/ProjetoLionBank_POO)
- - [Python - Cálculos e simulações relacionadas a conceitos da mecânica quântica.](https://github.com/LuiisMarim/CalculosMecanincaQuantica)
+ - [Quiz com Arduíno Uno](https://github.com/LuiisMarim/Quiz-Arduino)
 
 
 ![LuiisMarim GitHub stats](https://github-readme-stats.vercel.app/api?username=LuiisMarim&show_icons=true&theme=transparent)
