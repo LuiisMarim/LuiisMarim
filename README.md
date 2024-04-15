@@ -1,14 +1,17 @@
 # E aí! Luis aqui, pronto para começarmos. 👋🏻
   
-[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luisaugustomarim@gmail.com)
-[![Contato](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511969844276)
-[![Projeto DACC](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/daccfei/)
+[![Gmail Badge](https://img.shields.io/badge/-luisaugustomarim@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luisaugustomarim@gmail.com)](mailto:luisaugustomarim@gmail.com)
 
+[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/LuiisMarim)
 ## Sobre mim. 📌
 
-  - 💬 Com 19 anos , cursando o quarto semestre do curso de Ciência da Computação na FEI, estou totalmente imerso no mundo da tecnologia. Minha paixão por encontrar soluções criativas e revolucionárias é o que me motiva todos os dias.
+  - 💬 Com 19 anos: Desenvolvedor BackEnd, cursando o quarto semestre do curso de Ciência da Computação na FEI, desenvolvendo experiência com POO em JAVA,
+Estrutura de Dados com C, Computação Móvel com C++ e React Native.
 
-  - ⚡ Cada linha de código que escrevo é uma oportunidade para fazer algo incrível acontecer. Estou pronto para enfrentar desafios e fazer minha marca no mundo da tecnologia! \o/
+  - ⚡ Destaco também minha participação em um projeto de iniciação tecnológica com o desenvolvimento de uma aplicação de realidade virtual com Unity, C# e Python. \o/
+
+  - 🎓 Assumi o papel de cofundador e vice-presidente do pioneiro Diretório Acadêmico de Computação FEI. Com isso, desempenhei um papel na concepção e coordenação de iniciativas
+como a realização da primeira Hackathon na instituição e a formação de uma equipe de programação.
 
   - 🔎 Em busca da minha primeira oportunidade profissional.<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="25" height="25" />
 
@@ -26,14 +29,15 @@
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img align="center" alt="c" src=	"https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img align="center" alt="postgree" src=	"https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img align="center" alt="c++" src=	"https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white"/>
+  <img align="center" alt="c++" src=	"https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img align="center" alt="swift" src=	"https://img.shields.io/badge/Swift-F05138.svg?style=for-the-badge&logo=Swift&logoColor=white"/>
   <img align="center" alt="kot" src=	"https://img.shields.io/badge/Kotlin-7F52FF.svg?style=for-the-badge&logo=Kotlin&logoColor=white"/>
   <img align="center" alt="script" src=	"https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img align="center" alt="ass" src=	"https://img.shields.io/badge/_-ASM-6E4C13.svg?style=for-the-badge"/>
+  <img align="center" alt="ass" src=	"https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white"/>
   <img align="center" alt="react" src=	"https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img align="center" alt="arduino" src=	"https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
-  
+  <img align="center" alt="MARKDOWN" src=	"https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
+  <img align="center" alt="Unity" src=	"https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/>
 
   
   
