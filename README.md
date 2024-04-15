@@ -11,9 +11,7 @@ Estrutura de Dados com C, Computação Móvel com C++ e React Native.
   - ⚡ Destaco também minha participação em um projeto de iniciação tecnológica com o desenvolvimento de uma aplicação de realidade virtual com Unity, C# e Python. \o/
 
   - 🎓 Assumi o papel de cofundador e vice-presidente do pioneiro Diretório Acadêmico de Computação FEI. Com isso, desempenhei um papel na concepção e coordenação de iniciativas
-como a realização da primeira Hackathon na instituição e a formação de uma equipe de programação.
-
-  - 🔎 Em busca da minha primeira oportunidade profissional.<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="25" height="25" />
+como a realização da primeira Hackathon na instituição e a formação de uma equipe de programação. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="25" height="25" />
 
   ## Portifólio:
  - [C - Sistema acadêmico de registro](https://github.com/LuiisMarim/ProjetoNotas_C)
