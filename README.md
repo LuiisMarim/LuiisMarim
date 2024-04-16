@@ -16,7 +16,7 @@ como a realização da primeira Hackathon na instituição. <img src="https://ra
   ## Portifólio:
  - [C - Sistema acadêmico de registro](https://github.com/LuiisMarim/ProjetoNotas_C)
  - [Java/PostgreeSQL - Sistema de banco fictício](https://github.com/LuiisMarim/ProjetoLionBank_POO)
- - [Quiz com Arduíno Uno](https://github.com/LuiisMarim/Quiz-Arduino)
+ - [Quiz com Arduíno/ C++ Uno](https://github.com/LuiisMarim/Quiz-Arduino)
 
 
 ![LuiisMarim GitHub stats](https://github-readme-stats.vercel.app/api?username=LuiisMarim&show_icons=true&theme=transparent)
