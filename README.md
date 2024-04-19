@@ -36,7 +36,7 @@ como a realização da primeira Hackathon na instituição. <img src="https://ra
   <img align="center" alt="arduino" src=	"https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
   <img align="center" alt="MARKDOWN" src=	"https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
   <img align="center" alt="Unity" src=	"https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/>
-
+  <img align="center" alt="Linux" src=	"https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   
   
 </div> 
