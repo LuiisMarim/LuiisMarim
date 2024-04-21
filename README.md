@@ -1,19 +1,19 @@
-# E aí! Luis aqui, pronto para começarmos. 👋🏻
+#What's up! Luis here, ready for us to start.👋🏻
   
 [![Gmail Badge](https://img.shields.io/badge/-luisaugustomarim@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luisaugustomarim@gmail.com)](mailto:luisaugustomarim@gmail.com)
 
 [![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/LuiisMarim)
-## Sobre mim. 📌
+## About Me. 📌
 
-  - 💬 Com 19 anos: Desenvolvedor BackEnd, cursando o quarto semestre do curso de Ciência da Computação na FEI, desenvolvendo experiência com POO em JAVA,
-Estrutura de Dados com C, Computação Móvel com C++ e React Native.
+  - 💬 Aged 19: BackEnd Developer, attending the fourth semester of the Computer Science course at FEI, developing experience with POO in JAVA,
+Data Structure with C, Mobile Computing with C++ and React Native.
 
-  - ⚡ Destaco também minha participação em um projeto de iniciação tecnológica com o desenvolvimento de uma aplicação de realidade virtual com Unity, C# e Python. \o/
+  - ⚡ I would also like to highlight my participation in a technological initiation project with the development of a virtual reality application using Unity, C# and Python. \o/
 
-  - 🎓 Assumi o papel de cofundador e vice-presidente do pioneiro Diretório Acadêmico de Computação FEI. Desempenhei um papel na concepção e coordenação de iniciativas
-como a realização da primeira Hackathon na instituição. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="25" height="25" />
+  - 🎓 I took on the role of co-founder and vice-president of the pioneering FEI Computing Academic Directory. I played a role in conceiving and coordinating initiatives
+such as holding the institution's first Hackathon. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="25" height="25" />
 
-  ## Portifólio:
+  ## Portfolio:
  - [C - Sistema acadêmico de registro](https://github.com/LuiisMarim/ProjetoNotas_C)
  - [Java/PostgreeSQL - Sistema de banco fictício](https://github.com/LuiisMarim/ProjetoLionBank_POO)
  - [Quiz com Arduíno/ C++ Uno](https://github.com/LuiisMarim/Quiz-Arduino)
@@ -21,7 +21,7 @@ como a realização da primeira Hackathon na instituição. <img src="https://ra
 
 ![LuiisMarim GitHub stats](https://github-readme-stats.vercel.app/api?username=LuiisMarim&show_icons=true&theme=transparent)
 
-## Experiência em. 💡
+## Experience in . 💡
 <div style="display: inline-block"><br/>
   <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -41,7 +41,7 @@ como a realização da primeira Hackathon na instituição. <img src="https://ra
   
 </div> 
 
-## Tecnologias Mais Utilizadas. 🤖
+## Most used technologies. 🤖
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuiisMarim&layout=compact&icons=true&theme=transparent)
 
 
