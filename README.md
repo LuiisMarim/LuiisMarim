@@ -18,9 +18,6 @@ such as holding the institution's first Hackathon. <img src="https://raw.githubu
  - [Java/PostgreeSQL - Sistema de banco fictício](https://github.com/LuiisMarim/ProjetoLionBank_POO)
  - [Quiz com Arduíno/ C++ Arduino Uno](https://github.com/LuiisMarim/Quiz-Arduino)
 
-
-![LuiisMarim GitHub stats](https://github-readme-stats.vercel.app/api?username=LuiisMarim&show_icons=true&theme=transparent)
-
 ## Experience in . 💡
 <div style="display: inline-block"><br/>
   <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -38,8 +35,13 @@ such as holding the institution's first Hackathon. <img src="https://raw.githubu
   <img align="center" alt="Unity" src=	"https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/>
   <img align="center" alt="Linux" src=	"https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   
-  
-</div> 
+</div>
+
+</br>
+
+![LuiisMarim GitHub stats](https://github-readme-stats.vercel.app/api?username=LuiisMarim&show_icons=true&theme=transparent)
+
+
 
 ## Most used technologies. 🤖
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuiisMarim&layout=compact&icons=true&theme=transparent)
