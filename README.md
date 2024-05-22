@@ -37,9 +37,14 @@ such as holding the institution's first Hackathon. <img src="https://raw.githubu
   <img align="center" alt="firebase" src=	"https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34"/>
   <img align="center" alt="expo" src=	"https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37"/>
   <img align="center" alt="jupyter" src=	"https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white7"/>
+  <img align="center" alt="numpy" src=	"https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=NumPy&logoColor=white"/>
+  <img align="center" alt="pandas" src=	"https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+ 
+  
   
 </div>
-
+</br>
 </br>
 
 ![LuiisMarim GitHub stats](https://github-readme-stats.vercel.app/api?username=LuiisMarim&show_icons=true&theme=transparent)
