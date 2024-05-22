@@ -34,6 +34,9 @@ such as holding the institution's first Hackathon. <img src="https://raw.githubu
   <img align="center" alt="MARKDOWN" src=	"https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
   <img align="center" alt="Unity" src=	"https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/>
   <img align="center" alt="Linux" src=	"https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img align="center" alt="firebase" src=	"https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34"/>
+  <img align="center" alt="expo" src=	"https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37"/>
+  <img align="center" alt="jupyter" src=	"https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white7"/>
   
 </div>
 
