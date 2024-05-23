@@ -14,10 +14,11 @@ Data Structure with C, Mobile Computing with C++ and React Native.
 such as holding the institution's first Hackathon. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="25" height="25" />
 
   ## Portfolio:
- - [Sistema de gerenciamento acadêmivo](https://github.com/LuiisMarim/ProjetoNotas_C)
+ - [C- Academic Management System](https://github.com/LuiisMarim/ProjetoNotas_C)
  - [React Native/Firebase - Organizion](https://github.com/LuiisMarim/Organizion)
- - [C - Sistema de gerenciamento de seviços de saúde ](https://github.com/LuiisMarim/Sistema-GSS)
- - [C++/Arduino Uno - Quiz com Arduíno](https://github.com/LuiisMarim/Quiz-Arduino)
+ - [C - Healthcare Service Management System](https://github.com/LuiisMarim/Sistema-GSS)
+ - [C++/Arduino Uno - Quiz with Arduíno Uno ](https://github.com/LuiisMarim/Quiz-Arduino)
+ - [Unity/C# - BallonGame in AR](https://github.com/LuiisMarim/BallonGame)
 
 ## Experience in . 💡
 <div style="display: inline-block"><br/>
