@@ -24,7 +24,7 @@ such as holding the institution's first Hackathon. <img src="https://raw.githubu
 
   ## Portfolio:
   <div>
-  <img align = "right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="350" height = "230">
+  <img align = "right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="350" height = "200">
   
  - [C - Healthcare Service Management System](https://github.com/LuiisMarim/Sistema-GSS)
  - [React Native/Firebase - Organizion](https://github.com/LuiisMarim/Organizion)
