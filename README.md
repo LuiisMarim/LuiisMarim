@@ -1,11 +1,22 @@
 # What's up! Luis here, ready for us to start.👋🏻
+
+
+  <div align = "middle"> <H3>🔵 BackEnd Developer at Humania  </H3> </div>
   
+
+
+<img align = "right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="300">
+
 [![Gmail Badge](https://img.shields.io/badge/-luisaugustomarim@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luisaugustomarim@gmail.com)](mailto:luisaugustomarim@gmail.com)
 
 [![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/LuiisMarim)
-## About Me. 📌
 
-  - 💬 Aged 19: BackEnd Developer, attending the fourth semester of the Computer Science course at FEI, developing experience with POO in JAVA,
+[![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-marim-b13a55316/)
+
+
+## About Me. 📌
+ 
+  - 💬 Aged 20: Attending the  fifth semester of the Computer Science course at FEI, developing experience with POO in JAVA,
 Data Structure with C, Mobile Computing with C++ and React Native.
 
   - ⚡ I would also like to highlight my participation in a technological initiation project with the development of a virtual reality application using Unity, C# and Python. \o/
