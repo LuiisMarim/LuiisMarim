@@ -3,9 +3,7 @@
 
   <div align = "middle"> <H3>🔵 BackEnd Developer at Humania  </H3> </div>
   
-
-
-<img align = "right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="300">
+<img align = "right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="230" height = "150" alt="animated hello">
 
 [![Gmail Badge](https://img.shields.io/badge/-luisaugustomarim@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luisaugustomarim@gmail.com)](mailto:luisaugustomarim@gmail.com)
 
@@ -25,6 +23,9 @@ Data Structure with C, Mobile Computing with C++ and React Native.
 such as holding the institution's first Hackathon. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="25" height="25" />
 
   ## Portfolio:
+  <div>
+  <img align = "right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="350" height = "230">
+  
  - [C - Healthcare Service Management System](https://github.com/LuiisMarim/Sistema-GSS)
  - [React Native/Firebase - Organizion](https://github.com/LuiisMarim/Organizion)
  - [C++/Arduino Uno - Quiz with Arduíno Uno ](https://github.com/LuiisMarim/Quiz-Arduino)
@@ -32,6 +33,8 @@ such as holding the institution's first Hackathon. <img src="https://raw.githubu
  - [Java/SQL - Bank ](https://github.com/LuiisMarim/ProjetoLionBank_POO)
  - [Jupyter - Pokémon](https://github.com/LuiisMarim/AnaliseDeDadosPokemon)
  - [C- Academic Management System](https://github.com/LuiisMarim/ProjetoNotas_C)
+   
+</div>
 
 ## Experience in . 💡
 <div style="display: inline-block"><br/>
