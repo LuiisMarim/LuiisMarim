@@ -14,7 +14,7 @@
 
 ## About Me. 📌
  
-  - 💬 Aged 20: Attending the  fifth semester of the Computer Science course at FEI, developing experience with POO in JAVA,
+  - 💬 Aged 20: Attending the  seventh semester of the Computer Science course at FEI, developing experience with POO in JAVA,
 Data Structure with C, Mobile Computing with C++ and React Native.
 
   - ⚡ I would also like to highlight my participation in a technological initiation project with the development of a virtual reality application using Unity, C# and Python. \o/
