@@ -70,7 +70,7 @@ such as holding the institution's first Hackathon. <img src="https://raw.githubu
 
 
 ## Most used technologies. 🤖
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuiisMarim&layout=compact&icons=true&theme=transparent)
+![Top Langs]()
 
 
 <picture>
