@@ -1,7 +1,7 @@
 # What's up! Luis here, ready for us to start.👋🏻
 
 
-  <div align = "middle"> <H3>🔵 BackEnd Developer at Humania  </H3> </div>
+  <div align = "middle"> <H3>💜 Full Stack Developer at Ploomes  </H3> </div>
   
 <img align = "right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="230" height = "130" alt="animated hello">
 
